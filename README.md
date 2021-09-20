@@ -1,0 +1,1 @@
+Build Android: cd android && ./gradlew bundleRelease

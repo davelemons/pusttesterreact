@@ -1,0 +1,21 @@
+{
+    "appName": "pushtesterreact",
+    "roleName": "pinpointLambdaRole701c32be",
+    "cloudformationPolicyName": "cloudformationPolicy701c32be",
+    "cloudWatchPolicyName": "cloudWatchPolicy701c32be",
+    "pinpointPolicyName": "pinpointPolicy701c32be",
+    "authPolicyName": "pinpoint_amplify_701c32be",
+    "unauthPolicyName": "pinpoint_amplify_701c32be",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

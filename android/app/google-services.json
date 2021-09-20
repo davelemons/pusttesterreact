@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1061202301345",
+    "firebase_url": "https://pinpointtesting-d8056.firebaseio.com",
+    "project_id": "pinpointtesting-d8056",
+    "storage_bucket": "pinpointtesting-d8056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061202301345:android:20bf3793e351ba7b533be0",
+        "android_client_info": {
+          "package_name": "com.example.push_tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061202301345-be67fp7f4dg394l25moumhsgsgto18v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTYOk7Nyzb1CCbIXToUXekfkf0W16aiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061202301345-be67fp7f4dg394l25moumhsgsgto18v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061202301345:android:701609e1af6f297c533be0",
+        "android_client_info": {
+          "package_name": "com.pushtesterreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061202301345-be67fp7f4dg394l25moumhsgsgto18v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgTYOk7Nyzb1CCbIXToUXekfkf0W16aiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061202301345-be67fp7f4dg394l25moumhsgsgto18v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
